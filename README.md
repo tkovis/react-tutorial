@@ -13,7 +13,7 @@ Here, you basically keep the existing setup, like in [Step 0](https://github.com
 This can be done on-demand or on the CI-Server or before deploying the app.
 
 ## What to do to reach this step:
-1. in locize: signup at https://locize.com/register and [login](https://docs.locize.com/integration/getting-started/create-a-user-account)
+1. in locize: signup at https://locize.app/register and [login](https://docs.locize.com/integration/getting-started/create-a-user-account)
 2. in locize: [create a new project](https://docs.locize.com/integration/getting-started/add-a-new-project)
 3. in locize: add "de" as additional language (this can also be done via [API](https://docs.locize.com/integration/api#add-new-language))
 4. install the [locize-cli](https://github.com/locize/locize-cli)
